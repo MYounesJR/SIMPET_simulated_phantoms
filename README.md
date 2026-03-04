@@ -1,4 +1,4 @@
-# SIMPET-3D: Simulated 3D PET Phantom
+# PETGEN-3D: PET phantom GENerator 3D PET Phantom
 
 This repository provides a **simple Python script** to generate 3D *PET-like* phantoms:
 
